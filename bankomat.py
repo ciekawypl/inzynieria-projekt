@@ -1,6 +1,5 @@
 from user import User
 
-
 class Bankomat:
     def __init__(self):
         self.logged_user = None
